@@ -1,0 +1,141 @@
+body{
+	background-color: orange;
+	display: inline;
+	
+}
+#navbar{
+	list-style-type: none;
+	display: flex;
+	width: 40%;
+	margin: 40px 230px 50px 230px;
+	scale: 1.3;
+}
+.hh, audio{
+	margin: 50px 0px 50px 0px;
+}
+#mile{
+	float: right;
+	margin: 0px 10px 10px 30px;
+}
+.nyell{
+	text-align: justify;
+}
+.nye{
+	text-align: center;
+}
+.bpic{
+	scale: 80%;
+	margin: 0px;
+	border-radius: 100px;
+}
+#picss{
+	scale: 90%;
+}
+#hiphop{
+	float: left;
+	margin: 0px 45px 30px 5px;
+}
+#kherc{
+	float: right;
+	margin: 0px 5px 5px 45px;
+}
+#elements{
+	float: right;
+	margin: 0px 150px 10px 30px;
+}
+li{
+	float: left;
+}
+li a{
+	color: orange;
+	background: maroon;
+	width: 100%;
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+h1{
+	color: maroon;
+	font-family: georgia, serif;
+	font-size: 50px;
+	margin: 50px 0px 50px 0px;
+}
+h2{
+	font-family: georgia, serif;
+	font-size: 28px;
+	margin: 60px 0px 60px 0px;
+}
+h3{
+	font-family: georgia, serif;
+	font-size: 25px;
+	margin: 60px 0px 60px 0px;
+}
+footer{
+	background-image: linear-gradient(orange, orange, orange, orange, maroon, maroon, maroon, maroon, maroon, maroon, maroon, maroon, maroon, black, black, black, black, black);
+	margin-top: 50px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+#tiktok{
+	background: white;
+}
+.social{
+	border-color: black;
+	margin: 40px 20px 0px 20px;
+}
+.social:hover{
+	transform: scale(1.5, 1.5);
+}
+.yell, .yellow{
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: yellow;
+	padding-bottom: 0px;
+}
+.yellow:hover{
+	color: orange;
+}
+img,video{
+	margin: 5px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 20px;
+	border: yellow 5px solid;
+}
+.display{
+	width: 30%;
+}
+p{
+	font-family: times new roman;
+	font-size: 25px;
+	font-weight: bold;
+}
+a{
+	font-family: times new roman;
+	font-size: 22px;
+	font-weight: bold;
+}
+a:hover{
+	color: yellow;
+}
+.dojo{
+	color: maroon;
+}
+.hh{
+	scale: 80%;
+}
+.motto{
+	background-color: maroon;
+	color: yellow;
+	border-radius: 30px;
+	width: 85%;
+	height: 100px;
+	text-align: center;
+	padding: justify;
+}
+#ppp{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
